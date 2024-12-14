@@ -1,0 +1,200 @@
+Episode 1/100, Total Reward: 33.932594491287546
+{'filled_ratio': 0.06, 'trim_loss': 0.4559610717684574}
+Episode 2/100, Total Reward: 44.598307623066574
+{'filled_ratio': 0.1, 'trim_loss': 0.417065642206828}
+Episode 3/100, Total Reward: 69.24432813026006
+{'filled_ratio': 0.05, 'trim_loss': 0.3198583038612014}
+Episode 4/100, Total Reward: 51.65977958996734
+{'filled_ratio': 0.07, 'trim_loss': 0.3433824989043255}
+Episode 5/100, Total Reward: 12.460063384654918
+{'filled_ratio': 0.02, 'trim_loss': 0.5453746332897921}
+Episode 6/100, Total Reward: 20.81336748900547
+{'filled_ratio': 0.05, 'trim_loss': 0.4230583895606895}
+Episode 7/100, Total Reward: 38.22325366778446
+{'filled_ratio': 0.05, 'trim_loss': 0.39625665739735483}
+Episode 8/100, Total Reward: 44.34882094673862
+{'filled_ratio': 0.12, 'trim_loss': 0.4468740977193628}
+Episode 9/100, Total Reward: 49.26825024448951
+{'filled_ratio': 0.09, 'trim_loss': 0.4165976427906687}
+Episode 10/100, Total Reward: 29.370824054388866
+{'filled_ratio': 0.06, 'trim_loss': 0.4755257023616677}
+Episode 11/100, Total Reward: 68.77773342604391
+{'filled_ratio': 0.08, 'trim_loss': 0.41899373229805065}
+Episode 12/100, Total Reward: 42.85589813297902
+{'filled_ratio': 0.12, 'trim_loss': 0.4689523508199796}
+Episode 13/100, Total Reward: 38.00113166617386
+{'filled_ratio': 0.06, 'trim_loss': 0.4002417980674309}
+Episode 14/100, Total Reward: 72.36018105205989
+{'filled_ratio': 0.13, 'trim_loss': 0.44589869637504476}
+Episode 15/100, Total Reward: 72.37783855706584
+{'filled_ratio': 0.11, 'trim_loss': 0.4597939917060906}
+Episode 16/100, Total Reward: 36.16899687340934
+{'filled_ratio': 0.03, 'trim_loss': 0.4842033405755461}
+Episode 17/100, Total Reward: 70.0033104634515
+{'filled_ratio': 0.09, 'trim_loss': 0.3021078609454623}
+Episode 18/100, Total Reward: 69.66272602281477
+{'filled_ratio': 0.12, 'trim_loss': 0.4430585331428953}
+Episode 19/100, Total Reward: 54.643732852140644
+{'filled_ratio': 0.14, 'trim_loss': 0.5252608226084802}
+Episode 20/100, Total Reward: 58.20251212498428
+{'filled_ratio': 0.12, 'trim_loss': 0.4958843320745183}
+Episode 21/100, Total Reward: 43.742491528130394
+{'filled_ratio': 0.1, 'trim_loss': 0.4719522326320112}
+Episode 22/100, Total Reward: 31.377402773332616
+{'filled_ratio': 0.1, 'trim_loss': 0.47043835489570496}
+Episode 23/100, Total Reward: 48.35186415320296
+{'filled_ratio': 0.12, 'trim_loss': 0.4722270835155074}
+Episode 24/100, Total Reward: 26.161761772542036
+{'filled_ratio': 0.11, 'trim_loss': 0.44761549095631215}
+Episode 25/100, Total Reward: 18.418702075961466
+{'filled_ratio': 0.08, 'trim_loss': 0.422198041030022}
+Episode 26/100, Total Reward: 1.3956466069142124
+{'filled_ratio': 0.01, 'trim_loss': 0.6510883482714469}
+Episode 27/100, Total Reward: 22.560537041476863
+{'filled_ratio': 0.01, 'trim_loss': 0.4634380244545673}
+Episode 28/100, Total Reward: 23.616850672151905
+{'filled_ratio': 0.03, 'trim_loss': 0.3908756800502425}
+Episode 29/100, Total Reward: 42.71389121680177
+{'filled_ratio': 0.11, 'trim_loss': 0.4248758522624156}
+Episode 30/100, Total Reward: 23.72105287594647
+{'filled_ratio': 0.06, 'trim_loss': 0.4816814217115621}
+Episode 31/100, Total Reward: 46.34263304375299
+{'filled_ratio': 0.14, 'trim_loss': 0.45445565484293154}
+Episode 32/100, Total Reward: 51.75902547734501
+{'filled_ratio': 0.13, 'trim_loss': 0.476605087095488}
+Episode 33/100, Total Reward: 85.70540689349376
+{'filled_ratio': 0.06, 'trim_loss': 0.2617475720817028}
+Episode 34/100, Total Reward: 59.50010071713475
+{'filled_ratio': 0.2, 'trim_loss': 0.4673088167581705}
+Episode 35/100, Total Reward: 44.827479731546866
+{'filled_ratio': 0.12, 'trim_loss': 0.45721859644566726}
+Episode 36/100, Total Reward: 66.16775248359318
+{'filled_ratio': 0.1, 'trim_loss': 0.4010484547802561}
+Episode 37/100, Total Reward: 47.221427716082275
+{'filled_ratio': 0.1, 'trim_loss': 0.41916124828743084}
+Episode 38/100, Total Reward: 53.053435733213284
+{'filled_ratio': 0.13, 'trim_loss': 0.42563083807163904}
+Episode 39/100, Total Reward: 40.82604259219747
+{'filled_ratio': 0.07, 'trim_loss': 0.3414526405343512}
+Episode 40/100, Total Reward: 28.662049468301703
+{'filled_ratio': 0.1, 'trim_loss': 0.48074290921709517}
+Episode 41/100, Total Reward: 66.19188188643724
+{'filled_ratio': 0.15, 'trim_loss': 0.47913486423506274}
+Episode 42/100, Total Reward: 59.468833913241
+{'filled_ratio': 0.13, 'trim_loss': 0.444601894590722}
+Episode 43/100, Total Reward: 4.779411764705882
+{'filled_ratio': 0.01, 'trim_loss': 0.5828619909502263}
+Episode 44/100, Total Reward: 48.405301878501625
+{'filled_ratio': 0.14, 'trim_loss': 0.4127945901407572}
+Episode 45/100, Total Reward: 24.18711734448684
+{'filled_ratio': 0.07, 'trim_loss': 0.4443281662847064}
+Episode 46/100, Total Reward: 58.376638532955965
+{'filled_ratio': 0.1, 'trim_loss': 0.4678796117580292}
+Episode 47/100, Total Reward: 13.061110549376474
+{'filled_ratio': 0.02, 'trim_loss': 0.5950994270306706}
+Episode 48/100, Total Reward: 50.06786948569233
+{'filled_ratio': 0.11, 'trim_loss': 0.5149271462946746}
+Episode 49/100, Total Reward: 48.78326947626657
+{'filled_ratio': 0.14, 'trim_loss': 0.48521551195199836}
+Episode 50/100, Total Reward: 60.394894362003456
+{'filled_ratio': 0.06, 'trim_loss': 0.35293040518861735}
+Episode 51/100, Total Reward: 41.127030581316795
+{'filled_ratio': 0.1, 'trim_loss': 0.44225731635258025}
+Episode 52/100, Total Reward: 68.97158240620215
+{'filled_ratio': 0.09, 'trim_loss': 0.33649667714882553}
+Episode 53/100, Total Reward: 54.57755483059494
+{'filled_ratio': 0.11, 'trim_loss': 0.4308589258453164}
+Episode 54/100, Total Reward: 40.18848847410284
+{'filled_ratio': 0.1, 'trim_loss': 0.4099314321126929}
+Episode 55/100, Total Reward: 58.373479230129576
+{'filled_ratio': 0.07, 'trim_loss': 0.41250080978949494}
+Episode 56/100, Total Reward: 54.85394911190185
+{'filled_ratio': 0.1, 'trim_loss': 0.42555179733361703}
+Episode 57/100, Total Reward: 21.619190281891825
+{'filled_ratio': 0.07, 'trim_loss': 0.4268344496643393}
+Episode 58/100, Total Reward: 52.49814692328021
+{'filled_ratio': 0.1, 'trim_loss': 0.411819081111268}
+Episode 59/100, Total Reward: 39.99256537849637
+{'filled_ratio': 0.11, 'trim_loss': 0.517512012251277}
+Episode 60/100, Total Reward: 18.224311117386456
+{'filled_ratio': 0.03, 'trim_loss': 0.3340275239652734}
+Episode 61/100, Total Reward: 46.94347972057086
+{'filled_ratio': 0.1, 'trim_loss': 0.4339566493184631}
+Episode 62/100, Total Reward: 62.27014314915499
+{'filled_ratio': 0.13, 'trim_loss': 0.4397626059365507}
+Episode 63/100, Total Reward: 47.414304861342444
+{'filled_ratio': 0.06, 'trim_loss': 0.46833957964764394}
+Episode 64/100, Total Reward: 48.52388253047098
+{'filled_ratio': 0.1, 'trim_loss': 0.4620194451192843}
+Episode 65/100, Total Reward: 41.3912743260287
+{'filled_ratio': 0.08, 'trim_loss': 0.4501350787480006}
+Episode 66/100, Total Reward: 71.07758613404474
+{'filled_ratio': 0.1, 'trim_loss': 0.3872399993571078}
+Episode 67/100, Total Reward: 36.71781433049881
+{'filled_ratio': 0.1, 'trim_loss': 0.44383945744638825}
+Episode 68/100, Total Reward: 47.591362374267725
+{'filled_ratio': 0.13, 'trim_loss': 0.48937650915608355}
+Episode 69/100, Total Reward: 38.96150055877112
+{'filled_ratio': 0.18, 'trim_loss': 0.47407145832754544}
+Episode 70/100, Total Reward: 27.5538977556241
+{'filled_ratio': 0.08, 'trim_loss': 0.5407535457683839}
+Episode 71/100, Total Reward: 60.63888928371677
+{'filled_ratio': 0.15, 'trim_loss': 0.40656378106936314}
+Episode 72/100, Total Reward: 49.521051972663074
+{'filled_ratio': 0.1, 'trim_loss': 0.3958082249154319}
+Episode 73/100, Total Reward: 43.900797280143394
+{'filled_ratio': 0.08, 'trim_loss': 0.3834515752353695}
+Episode 74/100, Total Reward: 64.21897226618628
+{'filled_ratio': 0.13, 'trim_loss': 0.38643371867574217}
+Episode 75/100, Total Reward: 40.70069653089267
+{'filled_ratio': 0.14, 'trim_loss': 0.48932307758709453}
+Episode 76/100, Total Reward: 39.518231567433126
+{'filled_ratio': 0.09, 'trim_loss': 0.466208483267601}
+Episode 77/100, Total Reward: 36.97519198224893
+{'filled_ratio': 0.08, 'trim_loss': 0.37461496039527464}
+Episode 78/100, Total Reward: 60.65903236940341
+{'filled_ratio': 0.1, 'trim_loss': 0.47277982759742204}
+Episode 79/100, Total Reward: 63.93417822770199
+{'filled_ratio': 0.16, 'trim_loss': 0.47276926264706187}
+Episode 80/100, Total Reward: 44.223962530648976
+{'filled_ratio': 0.13, 'trim_loss': 0.459471357878403}
+Episode 81/100, Total Reward: 44.2298928203644
+{'filled_ratio': 0.12, 'trim_loss': 0.4689494481388314}
+Episode 82/100, Total Reward: 9.93858994487078
+{'filled_ratio': 0.03, 'trim_loss': 0.4350401409514082}
+Episode 83/100, Total Reward: 44.014653913691234
+{'filled_ratio': 0.05, 'trim_loss': 0.3652129458773823}
+Episode 84/100, Total Reward: 49.38650310435065
+{'filled_ratio': 0.11, 'trim_loss': 0.44443082905203096}
+Episode 85/100, Total Reward: 51.79608645413401
+{'filled_ratio': 0.13, 'trim_loss': 0.3826692995555836}
+Episode 86/100, Total Reward: 41.88708922945856
+{'filled_ratio': 0.07, 'trim_loss': 0.42305850420032465}
+Episode 87/100, Total Reward: 54.84907952893937
+{'filled_ratio': 0.08, 'trim_loss': 0.3597577477252658}
+Episode 88/100, Total Reward: 37.04531319752019
+{'filled_ratio': 0.12, 'trim_loss': 0.46964826822522127}
+Episode 89/100, Total Reward: 27.309893122484702
+{'filled_ratio': 0.06, 'trim_loss': 0.4574495947482989}
+Episode 90/100, Total Reward: 56.617387293575206
+{'filled_ratio': 0.15, 'trim_loss': 0.47601288831122646}
+Episode 91/100, Total Reward: 19.867698069379855
+{'filled_ratio': 0.09, 'trim_loss': 0.507639261384776}
+Episode 92/100, Total Reward: 65.96145563497723
+{'filled_ratio': 0.14, 'trim_loss': 0.4625591428179692}
+Episode 93/100, Total Reward: 49.4048628658691
+{'filled_ratio': 0.13, 'trim_loss': 0.5392068360179496}
+Episode 94/100, Total Reward: 45.281162863216466
+{'filled_ratio': 0.15, 'trim_loss': 0.5017809456361435}
+Episode 95/100, Total Reward: 45.51113968058033
+{'filled_ratio': 0.1, 'trim_loss': 0.4813838388049933}
+Episode 96/100, Total Reward: 25.087042434004672
+{'filled_ratio': 0.08, 'trim_loss': 0.4476855768108888}
+Episode 97/100, Total Reward: 46.04259745210116
+{'filled_ratio': 0.08, 'trim_loss': 0.46447559321715465}
+Episode 98/100, Total Reward: 36.34079755993964
+{'filled_ratio': 0.04, 'trim_loss': 0.4372780126315907}
+Episode 99/100, Total Reward: 67.5182988382632
+{'filled_ratio': 0.09, 'trim_loss': 0.4111583489086759}
+Episode 100/100, Total Reward: 49.35901909819855
+{'filled_ratio': 0.14, 'trim_loss': 0.43843183944172714}
