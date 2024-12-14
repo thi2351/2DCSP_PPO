@@ -5,8 +5,8 @@ import torch.optim as optim
 import numpy as np
 import os
 import math
-from policy import Policy
 import time
+from abc import abstractmethod
 """
 TO_DO LIST:
 - Create a self-observation. We just need to encode first when the environment reset.
@@ -17,7 +17,26 @@ If we reuse stocks, it will be a positive reward and otherwise.
 When placing stock, we calculate the compactness, and retrieve a postive bonus base on compactness.
 
 """
+class Policy:
+    @abstractmethod
+    def __init__(self):
+        pass
 
+    @abstractmethod
+    def get_action(self, observation, info):
+        pass
+
+    def _get_stock_size_(self, stock):
+        stock_w = np.sum(np.any(stock != -2, axis=1))
+        stock_h = np.sum(np.any(stock != -2, axis=0))
+
+        return stock_w, stock_h
+
+    def _can_place_(self, stock, position, prod_size):
+        pos_x, pos_y = position
+        prod_w, prod_h = prod_size
+
+        return np.all(stock[pos_x : pos_x + prod_w, pos_y : pos_y + prod_h] == -1)
 
 
 class ProductEncoder(nn.Module):
@@ -324,7 +343,7 @@ class PPO(nn.Module, Policy):
             "position": [best_pos_x, best_pos_y],
         }, attribute
 
-    def get_action(self, observation):
+    def inner_get_action(self, observation):
         """
         Given the current state, get the action from the policy network.
         Chuyển về chọn 1 lần 1 action.
@@ -355,7 +374,17 @@ class PPO(nn.Module, Policy):
                 "position": [-1, -1]
             }, action, dist.log_prob(action), dist.entropy
         return placed, action, dist_before_masked.log_prob(action), dist_before_masked.entropy()
-
+    
+    
+    ##Method for calling from main.py##
+    def get_action(self, observation, info):
+        placed, _, _, _ = self.inner_get_action(observation,info)
+        while placed is None:
+            placed, _, _, _ = self.inner_get_action(observation,info)
+        return placed
+    def model_reset(self, observation):
+        self.masking.reset_mask()
+        self.observation.reset(observation)
     def calculate_reward(self, observation, action, info):
         """
         Calculate reward based on area usage, compactness, and empty space.

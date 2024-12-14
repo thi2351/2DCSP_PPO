@@ -74,7 +74,7 @@ def train(model: PPO, environment, num_episodes, max_steps, checkpoint_interval=
 
         for step in range(max_steps):
             current_obs = model.encode()  # Efficient encoding of observation
-            place, action, log_prob, entropy = model.get_action(observation)
+            place, action, log_prob, entropy = model.inner_get_action(observation)
 
             # Environment step
             observation, _, terminated, truncated, info = environment.step(place)

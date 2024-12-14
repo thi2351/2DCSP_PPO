@@ -55,9 +55,9 @@ def test(model: PPO, environment, num_episodes, max_steps):
 
         for step in range(max_steps):
             # Lấy hành động từ mô hình
-            place, action, log_prob, entropy = model.get_action(observation)
+            place, action, log_prob, entropy = model.inner_get_action(observation)
             while place["size"] == [1000,1000]:
-                place, action, log_prob, entropy = model.get_action(observation)
+                place, action, log_prob, entropy = model.inner_get_action(observation)
             # Thực hiện hành động trong môi trường
             observation, reward, terminated, truncated, info = environment.step(place)
             reward = model.calculate_reward(observation, place, info)
@@ -74,7 +74,7 @@ def test(model: PPO, environment, num_episodes, max_steps):
     print(f"Average Reward over {num_episodes} episodes: {avg_reward}")
     return total_rewards
 
-MAX_STEPS = 200
+MAX_STEPS = 10000
 if __name__ == "__main__":
     device ='cuda' if torch.cuda.is_available() else 'cpu'
     # Load mô hình đã lưu
